@@ -2,7 +2,6 @@
 .DS_Store
 Thumbs.db
 desktop.ini
-.vscode/
 .idea/
 *.suo
 *.user
@@ -31,8 +30,6 @@ out/
 *.js.map
 
 # Environment files
-.env
-.env.*
 
 # Misc
 *.log
@@ -41,3 +38,4 @@ out/
 *.orig
 
 .vercel
+config.bat
